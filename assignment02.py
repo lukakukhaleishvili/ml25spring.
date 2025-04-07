@@ -42,5 +42,5 @@ plt.savefig("ddos_detection_graph.png")
 plt.show()
 
 # Output possible DDoS times
-print("⚠️ Possible DDoS Attack Times:")
+print("Possible DDoS Attack Times:")
 print(ddos_minutes)
